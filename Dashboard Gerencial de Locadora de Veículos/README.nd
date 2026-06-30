@@ -1,1 +1,31 @@
 
+# Dashboard Executivo para Gestão de Locadora de Veículos | Power BI
+
+## Objetivo
+
+Desenvolvimento de dashboard para acompanhamento dos principais indicadores de uma locadora de veículos, proporcionando uma visão integrada das operações comerciais e da frota.
+
+## Tecnologias
+
+- Power BI
+- Power Query
+- DAX
+- Excel
+
+## Indicadores
+
+- Faturamento por ano
+- Participação percentual do faturamento
+- Faturamento por dia da semana
+- Quantidade de clientes
+- Ticket médio
+- Quilometragem média
+- Controle da frota
+- Previsão de vendas
+
+## Funcionalidades
+
+- Segmentação dinâmica por ano, modelo e situação
+- Consulta de clientes e veículos
+- Indicadores executivos
+- Painel para apoio à tomada de decisão
